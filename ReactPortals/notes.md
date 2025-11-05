@@ -1,6 +1,6 @@
 # What are React Portals ?
 
-- In React , Portals provide a way to render child component outside of its parent components DOM hierarchy.
+- In React , `Portals` provide a way to render child component outside of its parent components DOM hierarchy.
 - While React normally renders children inside the parent component's DOM element. a Portal allows you to render children into a different part of the DOM entirely.
 
 # Why do we need React Portals?
@@ -228,3 +228,5 @@ export default Navbar;
 
 1. The JSX content to render (the child elements you want to display).
 2. The DOM node to render the content into (where the child will be injected in the DOM).
+
+# git repo react-portal
