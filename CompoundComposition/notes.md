@@ -1,7 +1,7 @@
 # What is CompundComposition
 
 - Compound composition is a pattern in react where a set of realated components work together to share
-  state and behaviour while remoining decoulpled and flexible.
+  state and behaviour while remaining decoulpled and flexible.
 - This patterns allows componets to interact with each other in a parent -child relationship
 - Where the parent manages the shared data, and child components can modify or consume that state.
 - In compound component composition, the child components are not tightly coupled to each other; instead, they interact through a common parent. The parent acts as a controller that passes down props or provides shared functionality, while the children components focus on rendering UI or performing specific tasks.
