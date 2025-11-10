@@ -1,8 +1,8 @@
 # What is useState() Hook ?
 
-- `useState()` is a hook in react which manages ad add state to functional components .
+- `useState()` is a hook in react which manages and add state to functional components .
 - Before `hooks` were introduced , state could only be used in `class components`.
-- But wit `useState` we can use state in functional components as well
+- But with `useState` we can use state in functional components as well
 - It is one of the common Hooks in react.
 
 # Implementation
